@@ -2,9 +2,9 @@
 
 Este es un repositorio de github donde se explicará como hemos creado el juego.
 
-### Markdown
+### Sprites
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Los sprites los hemos obtenido de la página de [Kenney](https://www.kenney.nl/) donde encontrareis una variedad de objetos que podeis usar gratutamente para vuestro proyecto
 
 ```markdown
 Syntax highlighted code block
