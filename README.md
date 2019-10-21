@@ -7,6 +7,8 @@ El software que usaremos es [construct](https://www.scirra.com/)
 
 Los sprites los hemos obtenido de la página de [Kenney](https://www.kenney.nl/) donde encontrareis una variedad de objetos que podeis usar gratutamente para vuestro proyecto.
 
+### Animaciones del personaje
+
 
 ```markdown
 Syntax highlighted code block
