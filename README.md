@@ -4,7 +4,9 @@ Este es un repositorio de github donde se explicará como hemos creado el juego.
 
 ### Sprites
 
-Los sprites los hemos obtenido de la página de [Kenney](https://www.kenney.nl/) donde encontrareis una variedad de objetos que podeis usar gratutamente para vuestro proyecto
+Los sprites los hemos obtenido de la página de [Kenney](https://www.kenney.nl/) donde encontrareis una variedad de objetos que podeis usar gratutamente para vuestro proyecto.
+
+### Programa
 
 ```markdown
 Syntax highlighted code block
