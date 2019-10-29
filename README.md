@@ -1,5 +1,5 @@
 # **CUESTIONARIO**
-### Quieres saber que tanto sabes de hardware pues no dudes en pasar por nuestra encuesta en: [Encuesta](https://jorjesus.tk/cuestionario.html)
+### Quieres saber que tanto sabes de hardware pues no dudes en pasar por nuestro cuestionario en: [Cuestionario](https://jorjesus.tk/cuestionario.html)
 <p align="right">
   <img src="WIN_20191029_19_02_14_Pro.jpg" width="350" title="hover text">
 </p>
