@@ -1,4 +1,4 @@
-<IMG src="WIN_20191029_19_02_14_Pro.jpg" width="100" height="100"/>
+<IMG src="WIN_20191029_19_02_14_Pro.jpg" width="100" height="300"/>
 
 ## Bienvenidos a JorJesús
 Este es un repositorio de github donde se explicará como hemos creado el juego.
