@@ -1,4 +1,4 @@
-# La versión beta de _**JORJUS BROS**_ Estará disponible en menos de una semana.
+# La versión beta de _**JORJUS BROS**_ estará disponible en menos de una semana.
 <p align="center">
   <img src="logojorjusrpgbros.png" width="350" title="hover text">
 </p>
