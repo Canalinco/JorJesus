@@ -1,3 +1,7 @@
+# La versión beta de _**JORJUS BROS**_ Estará disponible en menos de una semana.
+<p align="center">
+  <img src="logojorjusrpgbros.png" width="350" title="hover text">
+</p>
 # _**CUESTIONARIO**_
 ### Quieres saber que tanto sabes de hardware pues no dudes en pasar por nuestro cuestionario en: [Cuestionario](https://jorjesus.tk/cuestionario.html)
 # _**¿Qué tan fácil es crear un virus?**_
